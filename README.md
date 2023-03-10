@@ -1,4 +1,4 @@
-#Lydia Pleshkova
+# Lydia Pleshkova
 
 Being an experienced employee who worked in a number of large international companies, I can perfectly work independently and as a team player. I’ve earned **BA in Linguistics and Interpreting** and **LLM in Civil Law**. Now I'm taking two online courses - **'Quality Assurance Engineer'** and **'Data Scientist'**, planning to become a *pythonista data science ninja with QA skills*.
 
